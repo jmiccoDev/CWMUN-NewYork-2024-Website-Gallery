@@ -13,10 +13,6 @@ The site was built using Next.js and Tailwind CSS. CWMUN (Conference of the Worl
 - `public/`: Directory containing public resources such as images and fonts.
 - `components/`: Directory containing reusable components.
 
-## How to Contribute
-
-You are welcome to make changes and improvements to this site. Feel free to submit a pull request!
-
 ## Contact
 
 You can reach me via the following social media platforms:
