@@ -1,31 +1,28 @@
-# Next.js & Cloudinary example app
+# README
 
-This example shows how to create an image gallery site using Next.js, [Cloudinary](https://cloudinary.com), and [Tailwind](https://tailwindcss.com).
+This repository was created for hosting my school website showcasing my CWMUN New York 2024 project.
 
-## Deploy your own
+## Description
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or view the demo [here](https://nextconf-images.vercel.app/)
+The site was built using Next.js and Tailwind CSS. CWMUN (Conference of the World Model United Nations) is an educational simulation where students learn about diplomacy and international relations by role-playing as delegates representing different countries or organizations within UN committees.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-cloudinary&project-name=nextjs-image-gallery&repository-name=with-cloudinary&env=NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME,CLOUDINARY_API_KEY,CLOUDINARY_API_SECRET,CLOUDINARY_FOLDER&envDescription=API%20Keys%20from%20Cloudinary%20needed%20to%20run%20this%20application.)
+## Contents
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- `index.js`: Main page of the site.
+- `styles.css`: Custom stylesheet for the site.
+- `public/`: Directory containing public resources such as images and fonts.
+- `components/`: Directory containing reusable components.
 
-## How to use
+## How to Contribute
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example::
+You are welcome to make changes and improvements to this site. Feel free to submit a pull request!
 
-```bash
- npx create-next-app --example with-cloudinary nextjs-image-gallery
-```
+## Contact
 
-```bash
-yarn create next-app --example with-cloudinary nextjs-image-gallery
-```
+You can reach me via the following social media platforms:
 
-```bash
-pnpm create next-app --example with-cloudinary nextjs-image-gallery
-```
+[![Instagram](https://img.shields.io/badge/Instagram-%40yourusername-orange)](https://www.instagram.com/yourusername/)
+[![Discord](https://img.shields.io/badge/Discord-yourusername%23tag-blue)](https://discord.com/yourusername#tag)
+[![Twitter](https://img.shields.io/badge/Twitter-%40yourusername-blue)](https://twitter.com/yourusername)
 
-## References
-
-- Cloudinary API: https://cloudinary.com/documentation/transformation_reference
+Thank you for your interest!
