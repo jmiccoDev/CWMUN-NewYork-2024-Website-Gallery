@@ -33,11 +33,11 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
         <title>CWMUN NewYork 2024 Photo Gallery</title>
         <meta
           property="og:image"
-          content="https://nextjsconf-pics.vercel.app/og-image.png"
+          content="/DSC06167.JPG"
         />
         <meta
           name="twitter:image"
-          content="https://nextjsconf-pics.vercel.app/og-image.png"
+          content="/DSC06167.JPG"
         />
       </Head>
       <main className="mx-auto max-w-[1960px] p-4">

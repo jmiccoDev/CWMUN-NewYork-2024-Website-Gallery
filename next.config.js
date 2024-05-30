@@ -5,6 +5,7 @@
 module.exports = {
   output: 'export',
   images: {
+    unoptimized: true,
     formats: ["image/avif", "image/webp"],
     domains: ["res.cloudinary.com"],
     remotePatterns: [
