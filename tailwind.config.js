@@ -18,6 +18,15 @@ module.exports = {
         wide: { raw: "(min-aspect-ratio: 3 / 2)" },
         "taller-than-854": { raw: "(min-height: 854px)" },
       },
+      animation: {
+        fadeIn: "fadeIn 1s ease-in-out",
+      },
+      keyframes: {
+        fadeIn: {
+          '0%': { opacity: 0 },
+          '100%': { opacity: 1 },
+        },
+      },
     },
   },
   plugins: [],
