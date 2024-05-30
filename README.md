@@ -1,4 +1,4 @@
-# README
+# CWMUN New York 2024 Website Gallery
 
 This repository was created for hosting my school website showcasing my CWMUN New York 2024 project.
 
