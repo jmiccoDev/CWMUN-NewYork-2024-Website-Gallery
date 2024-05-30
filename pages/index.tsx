@@ -107,7 +107,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
         </div>
       </main>
       <footer className="p-6 text-center text-white/80 sm:p-12">
-        Photo made by{" "}
+        Photos made by{" "}
         <a
           href="https://www.instagram.com/mirko.fiorinii"
           target="_blank"
@@ -117,7 +117,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
           Mirko Fiorini
         </a>
         {". "}
-        All rights reserved.
+        All rights are reserved.
       </footer>
     </>
   );

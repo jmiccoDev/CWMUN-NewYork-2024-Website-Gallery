@@ -72,8 +72,17 @@ export default function About() {
       </main>
    {/* Simple footer (Made by Mirko Fiorini. All rights are reserved.) */}
    <footer className="bg-gradient-to-r text-white py-4 text-center">
-            <p>Made by Mirko Fiorini. All rights are reserved.</p>
-        </footer>
+  <p>Website created with love by{" "}
+    <a href="https://github.com/jmiccoDev" target="_blank" className="font-semibold hover:text-white" rel="noreferrer">Mirko Fiorini</a>{" "}
+    and{" "}
+    <a href="https://github.com/jmiccoDev" target="_blank" className="font-semibold hover:text-white" rel="noreferrer">Sergio Serraino</a>.
+    <br />
+    Special thanks to the{" "}
+    <a href="https://www.diplomatici.it/" target="_blank" className="font-semibold hover:text-white" rel="noreferrer">Associazione Diplomatici</a>.
+    <br />
+    All rights reserved.
+  </p>
+</footer>
     </div>
     
   );
