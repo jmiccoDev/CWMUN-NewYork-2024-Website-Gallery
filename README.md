@@ -11,7 +11,7 @@ The site was built using Next.js and Tailwind CSS. CWMUN (Conference of the Worl
 You can reach me via the following social media platforms:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40mirko.fiorinii-orange)](https://www.instagram.com/mirko.fiorinii/)
-[![Discord](https://img.shields.io/badge/Discord-jmicco%23tag-blue)](https://discord.com/jmicco#tag)
-[![Twitter](https://img.shields.io/badge/Twitter-%40yourusername-blue)](https://twitter.com/devJmicco)
+[![Discord](https://img.shields.io/badge/Discord-jmicco-blue)](https://discord.com/jmicco)
+[![Twitter](https://img.shields.io/badge/Twitter-%40devJmicco-blue)](https://twitter.com/devJmicco)
 
 Thank you for your interest!
